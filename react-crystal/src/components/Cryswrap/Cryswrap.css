@@ -1,0 +1,7 @@
+.cryswrap{
+ width: 45%; 
+ display: flex;
+ flex-flow: row wrap;
+ align-content: center; 
+ margin-left: 5%;
+}

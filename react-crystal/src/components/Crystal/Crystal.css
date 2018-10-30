@@ -1,0 +1,14 @@
+
+
+.img-container > .crystal{
+    height: 140px;
+    width: 150px;
+    box-shadow: 0 3px 6px rgb(170, 161, 31), 0 3px 6px rgb(170, 161, 31);
+    display: block;
+    margin: 12px;
+}
+
+.crystal:hover {
+    height: 150px;
+    width: 160px;
+  }
